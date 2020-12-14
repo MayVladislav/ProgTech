@@ -1,0 +1,14 @@
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\Mayor_V\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.pdb
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\bin\Debug\lab8.exe.config
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\bin\Debug\lab8.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\bin\Debug\lab8.pdb
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab8\lab8\lab8\obj\Debug\lab8.pdb
