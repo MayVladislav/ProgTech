@@ -1,0 +1,7 @@
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\bin\Debug\lab10.exe.config
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\bin\Debug\lab10.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\bin\Debug\lab10.pdb
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\obj\Debug\lab10.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\obj\Debug\lab10.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab10\lab10\lab10\obj\Debug\lab10.pdb
