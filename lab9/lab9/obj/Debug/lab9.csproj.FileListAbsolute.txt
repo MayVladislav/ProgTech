@@ -1,0 +1,7 @@
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\bin\Debug\lab9.exe.config
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\bin\Debug\lab9.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\bin\Debug\lab9.pdb
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\obj\Debug\lab9.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\obj\Debug\lab9.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab9\lab9\lab9\obj\Debug\lab9.pdb
