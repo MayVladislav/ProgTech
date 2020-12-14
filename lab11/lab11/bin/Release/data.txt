@@ -1,0 +1,11 @@
+ID Name Family Balance nalog
+1,Ivan,Petrov,1000,5000
+2,Dmitriy,Sergeev,1000,50
+3,Igor,Sidorov,1000,50
+4,Evgeny,Andreev,1001,50
+5,Andrew,Petrenko,-1000,50
+6,Alex,Antonov,-1000,50
+7,Elena,Temnikova,1000,50
+8,Genadiy,Gorin,-1000,50
+9,Vladimir,Putin,1000000000000,0
+10,Elon,Musk,10000000000,4424245
