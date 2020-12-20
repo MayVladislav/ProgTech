@@ -1,0 +1,7 @@
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\bin\Debug\lab11.exe.config
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\bin\Debug\lab11.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\bin\Debug\lab11.pdb
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\obj\Debug\lab11.csprojAssemblyReference.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\obj\Debug\lab11.csproj.CoreCompileInputs.cache
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\obj\Debug\lab11.exe
+C:\Users\izi89\Desktop\2 Курс\Технологии программирования\lab11\lab11\lab11\obj\Debug\lab11.pdb
